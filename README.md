@@ -372,7 +372,7 @@ If you use this repository, please cite the associated manuscript and the archiv
 
 Zenodo
 
-DOI: To be added after archival on Zenodo.
+DOI: 10.5281/zenodo.22125242
 
 Manuscript
 
