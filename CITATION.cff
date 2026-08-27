@@ -1,0 +1,70 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+
+title: "Machine-learning analysis code for automated detection of focal cortical dysplasia in epilepsy using structural MRI"
+
+type: software
+
+authors:
+  - family-names: "KhoshAkhlagh"
+    given-names: "Hamed"
+
+  - family-names: "Rahimi"
+    given-names: "Fatemeh"
+
+  - family-names: "Khodadadegan"
+    given-names: "Mohammad Amin"
+
+  - family-names: "Solhirad"
+    given-names: "Moslem"
+
+  - family-names: "Zare-Sadeghi"
+    given-names: "Arash"
+
+  - family-names: "Rezaeyan"
+    given-names: "Abolhasan"
+
+version: 1.0.0
+
+date-released: 2026-08-27
+
+repository-code: "https://github.com/FCD-MRI-machine-learning/epilepsy-ml-fcd-classification"
+
+keywords:
+  - machine learning
+  - epilepsy
+  - focal cortical dysplasia
+  - FCD type II
+  - structural MRI
+  - neuroimaging
+  - FreeSurfer
+  - nested cross-validation
+  - Elastic Net
+  - principal component analysis
+  - random forest
+  - SHAP
+
+preferred-citation:
+  type: article
+  title: "Automated Detection of Focal Cortical Dysplasia in Epilepsy Using Machine Learning on Structural MRI"
+
+  authors:
+    - family-names: "KhoshAkhlagh"
+      given-names: "Hamed"
+
+    - family-names: "Rahimi"
+      given-names: "Fatemeh"
+
+    - family-names: "Khodadadegan"
+      given-names: "Mohammad Amin"
+
+    - family-names: "Solhirad"
+      given-names: "Moslem"
+
+    - family-names: "Zare-Sadeghi"
+      given-names: "Arash"
+
+    - family-names: "Rezaeyan"
+      given-names: "Abolhasan"
+
+  notes: "Manuscript under review."
